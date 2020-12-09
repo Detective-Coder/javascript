@@ -21,10 +21,11 @@ let aaronObject = {
 }
 
 console.log(aaronObject);
-console.log(aaronObject.firstName);
-console.log(aaronObject.lastName);
-console.log(aaronObject.age);
-console.log(aaronObject.likesToTravel);
+// console.log(aaronObject.firstName);
+// console.log(aaronObject.lastName);
+// console.log(aaronObject.age);
+// console.log(aaronObject.likesToTravel);
+
 
 
 
